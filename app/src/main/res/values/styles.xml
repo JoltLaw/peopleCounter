@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="MainActivityTheme.Launch" parent="android:Theme.DeviceDefault">
+
+    </style>
+</resources>
